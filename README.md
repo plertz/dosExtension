@@ -1,0 +1,1 @@
+# dosExtension voor chrome
